@@ -26,7 +26,11 @@ I'm a passionate Flutter developer with a deep love for creating elegant and fun
 
 ### Project 1: [BeeHive User Side - Restaurant Ordering App](https://github.com/AmirHameed/beehive)
 
-- **Description:** Foodie Delight is a Flutter-based mobile app that allows users to browse a restaurant's menu, select items, add them to their cart, and place orders for delicious meals. It simplifies the process of ordering food from your favorite restaurants, ensuring a convenient and delightful dining experience.
+- **Description:** A Flutter-based food ordering application with real-time order tracking and user authentication.
+
+🔹 Implemented Firebase-based authentication and order synchronization
+🔹 Designed scalable UI with efficient state management
+🔹 Focused on performance and smooth user experience.
 
 - **Technologies Used:** Flutter, Dart, Firebase (for real-time order tracking and authentication).
 
