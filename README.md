@@ -28,9 +28,9 @@ I'm a passionate Flutter developer with a deep love for creating elegant and fun
 
 - **Description:** A Flutter-based food ordering application with real-time order tracking and user authentication.
 
--* Implemented Firebase-based authentication and order synchronization
--* Designed scalable UI with efficient state management
--* Focused on performance and smooth user experience.
+- * Implemented Firebase-based authentication and order synchronization
+- * Designed scalable UI with efficient state management
+- * Focused on performance and smooth user experience.
 
 - **Technologies Used:** Flutter, Dart, Firebase (for real-time order tracking and authentication).
 
