@@ -1,92 +1,133 @@
-# Amir Hameed
-![Screenshot1](https://github.com/AmirHameed/beehive/blob/main/assets/Navy%20Modern%20Marketing%20Expert%20LinkedIn%20Banner.png)
+<!-- Banner — swap this image anytime; it renders from your beehive repo assets -->
+<img src="https://raw.githubusercontent.com/AmirHameed/beehive/main/assets/Navy%20Modern%20Marketing%20Expert%20LinkedIn%20Banner.png" alt="Amir Hameed banner" width="100%" />
 
-Flutter Developer | Mobile App Enthusiast
+<h1 align="center">Hi, I'm Amir Hameed 👋</h1>
+<h3 align="center">Senior Flutter Developer · Cross-Platform & AI-Integrated Mobile</h3>
 
-🌐 [Portfolio Website](https://www.yourwebsite.com) | 📧 [Email](mailto:amirhameed012@gmail.com)
+<p align="center">
+  Architecting and shipping scalable apps from Figma to production across <b>iOS, Android, Web & macOS</b> —
+  now building production <b>AI experiences</b> with OpenAI streaming & voice assistants.
+</p>
+
+<p align="center">
+  <a href="https://amirhameeddev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C6CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/amir-hameed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:amirhameed012@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Lahore,%20Pakistan-2E2E2E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=AmirHameed&style=for-the-badge&color=7C6CFF&label=Profile+Views" alt="Profile views"/>
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm a passionate Flutter developer with a deep love for creating elegant and functional mobile applications. My goal is to leverage my skills to build intuitive and user-centric solutions that provide an exceptional user experience.
+- 🧑‍💻 **Senior Flutter Engineer** with **5+ years** building scalable, cross-platform apps across **Android, iOS, Web & macOS**.
+- 🤖 Currently shipping **production AI-mobile experiences** — OpenAI streaming chat, voice-AI assistants, and intelligent marketplaces.
+- 🏗️ Deep expertise in **Clean Architecture**, **BLoC / Riverpod**, and high-performance UI — from the first Figma frame to store release.
+- 🧭 I own the full lifecycle: architecture → API integration → testing → CI/CD → **App Store & Play Store** delivery.
+- 🌱 Always exploring the frontier: on-device ML, Flutter Web/macOS, and applied LLMs (Claude & Gemini).
+- 💬 Ask me about **Flutter, Dart, state management, AI integration, or clean mobile architecture.**
 
-## Skills
+---
 
-- **Flutter/Dart:** Proficient in building cross-platform mobile applications.
-- **UI/UX Design:** Advocate for pixel-perfect, user-friendly design.
-- **Firebase:** Experience in integrating Firebase for backend services.
-- **State Management:** Familiar with various state management solutions in Flutter.
-- **Version Control:** Proficient in Git and GitHub.
-- **Continuous Integration/Continuous Deployment (CI/CD):** Experience with CI/CD pipelines.
-- **Problem Solving:** Strong analytical and problem-solving skills.
-- **Team Collaboration:** Effective communication and teamwork.
+## 🛠️ Tech Stack
 
-## Portfolio
+**Languages**
 
-### Project 1: [BeeHive User Side - Restaurant Ordering App](https://github.com/AmirHameed/beehive)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- **Description:** A Flutter-based food ordering application with real-time order tracking and user authentication.
+**Mobile & Frameworks**
 
- - * Implemented Firebase-based authentication and order synchronization
- - * Designed scalable UI with efficient state management
- - * Focused on performance and smooth user experience.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-- **Technologies Used:** Flutter, Dart, Firebase (for real-time order tracking and authentication).
+**State Management & Architecture**
 
-- **Screenshots:**
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-3D5AFE?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2E2E2E?style=for-the-badge)
 
-  <img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-26-08-552_com.appforce.beehive-2.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-26-14-124_com.appforce.beehive.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-26-22-626_com.appforce.beehive.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-26-39-879_com.appforce.beehive.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-27-15-610_com.appforce.beehive.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-27-25-975_com.appforce.beehive.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-27-30-458_com.appforce.beehive.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-27-46-592_com.appforce.beehive.jpg" width="100" height="250">
+**AI & Backend**
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Project 2: [Mx App](https://github.com/AmirHameed/mx)
+**Tools & DevOps**
 
-- **Description:** MX Application is a versatile Flutter-based mobile app that enables users to explore nearby places such as restaurants, clubs, hotels, and more. It provides access to Google Places details, user reviews, and allows users to add their own reviews. The app also leverages the Google Maps API for finding places and supports user authentication with Firebase.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-- **Technologies Used:** Flutter, Dart, Firebase
-  
-- **Screenshots:**
+---
 
-  <img src="https://github.com/AmirHameed/mx/blob/main/assets/1%20Splash.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/mx/blob/main/assets/3%20Service%20Availability.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/mx/blob/main/assets/6.%20Home.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/mx/blob/main/assets/7.%20Detail.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/mx/blob/main/assets/10%20Explore.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/mx/blob/main/assets/11%20People%20and%20Heatmap.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/mx/blob/main/assets/13%20Business%20Detail.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/mx/blob/main/assets/15%20Categories.jpg" width="100" height="250">
-- [GitHub Repository](https://github.com/AmirHameed/mx)
+## 📱 Featured Work
 
-### Project 3: [Refine](https://github.com/AmirHameed/refine)
+### 🟢 Production Apps — shipped to the stores
 
-- **Description:** MentorMatch connects mentors and mentees seamlessly, enabling mentees to seek guidance, schedule meetings, and track progress effortlessly. Join us for a journey of growth and mentorship today!.
+| App | What it is | Stack | Status |
+|-----|------------|-------|--------|
+| **Sera Fashion** | Dual-role e-commerce + Instagram-style social marketplace | Flutter · Riverpod · BLoC | 🟢 Play Store |
+| **[AI Chat](https://github.com/AmirHameed/ai-chat-flutter-openai)** | Real-time OpenAI streaming chat, smooth token rendering | Flutter · OpenAI | ⚙️ Production |
+| **Open Studio** | Art-trail planner with Mapbox navigation + offline support | Flutter · Mapbox | 🟢 App Store + Play Store |
+| **NekoChan** | Playful language-learning app | Flutter · iOS | 🟢 App Store |
+| **Saleforge Voice-AI** | OpenAI-powered, hands-free voice assistant | Flutter · OpenAI | 🔬 In progress |
 
-- **Technologies Used:** Flutter, Dart, Firebase, Restful Apis
-  
-- **Screenshots:**
+### 💻 Open-Source Projects
 
-  <img src="https://github.com/AmirHameed/refine/blob/main/assets/1.%20Splash.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/refine/blob/main/assets/2.%20Login.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/refine/blob/main/assets/6.%20Home.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/refine/blob/main/assets/7.%20Detail.jpg" width="100" height="250">
-  <img src="https://github.com/AmirHameed/refine/blob/main/assets/16.%20Mentor%20Profile.jpg" width="100" height="250">
-- [GitHub Repository](https://github.com/AmirHameed/refine)
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[ai-chat-flutter-openai](https://github.com/AmirHameed/ai-chat-flutter-openai)** | Real-time AI chat app powered by the OpenAI API | Flutter · OpenAI |
+| **[lumen-chat](https://github.com/AmirHameed/lumen-chat)** | A polished Flutter chat client for Google Gemini | Flutter · Gemini |
+| **[flutter_voice_recorder_ui](https://github.com/AmirHameed/flutter_voice_recorder_ui)** | WhatsApp-style hold-to-record voice button for Flutter | Flutter |
+| **[beehive](https://github.com/AmirHameed/beehive)** | Restaurant ordering app (client side) with Firebase real-time tracking | Flutter · Firebase |
+| **[whatsapp_status_saver](https://github.com/AmirHameed/whatsapp_status_saver)** | Status saver utility app | Flutter |
 
-## Achievements
+> 🐝 **BeeHive is a full ecosystem:** [Client](https://github.com/AmirHameed/beehive) · [Kitchen](https://github.com/AmirHameed/beehive_kitchen) · [Rider](https://github.com/AmirHameed/beehive_provider)
 
-- Mention any awards, certificates, or achievements related to your Flutter development journey.
-- For example: "Flutter Developer Certification - Udacity" or "Winner of XYZ Flutter Hackathon."
+---
 
-## Contact
+## ✨ Highlights
 
-- 📧 Email: amirhameed012@gmail.com
-- LinkedIn: [AmirHameed/FlutterDeveloper](https://www.linkedin.com/in/amir-hameed-035452146/)
+- 📦 Shipped **10+ apps** to the App Store & Play Store across e-commerce, social, maps, and AI.
+- 🤖 Built **production OpenAI streaming chat** and a **voice-AI assistant** PoC.
+- 🧑‍🏫 Mentored junior developers on Flutter best practices & modern state management.
+- 🧱 Led architecture with Clean Architecture, BLoC, Riverpod & GetX; drove TDD and code reviews.
 
-Feel free to reach out if you'd like to collaborate or have any questions about my work. Let's connect!
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirHameed&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHameed&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHameed&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://amirhameeddev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C6CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/amir-hameed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:amirhameed012@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center"><i>Open to remote, hybrid & onsite roles — let's build something great together.</i></p>
