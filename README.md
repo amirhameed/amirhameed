@@ -1,5 +1,5 @@
-<!-- Banner — swap this image anytime; it renders from your beehive repo assets -->
-<img src="https://raw.githubusercontent.com/AmirHameed/beehive/main/assets/Navy%20Modern%20Marketing%20Expert%20LinkedIn%20Banner.png" alt="Amir Hameed banner" width="100%" />
+<!-- Banner — upload banner.png to your amirhameed profile repo root for this to render -->
+<img src="https://raw.githubusercontent.com/AmirHameed/amirhameed/main/banner.png" alt="Amir Hameed — Senior Flutter Developer" width="100%" />
 
 <h1 align="center">Hi, I'm Amir Hameed 👋</h1>
 <h3 align="center">Senior Flutter Developer · Cross-Platform & AI-Integrated Mobile</h3>
